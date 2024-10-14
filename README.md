@@ -5,8 +5,10 @@ Welcome to my data portfolio ! My name is Nam DANG, a data driven student specia
 This Github data portfolio will be in french and sometimes in english. I will publish some of my personal projects, experiments and show some of my skills in data science !
 
 ## SKILLS
-- **Langages de Programmation** : Python, R, SQL, VBA, HTML, CSS
-- **Bibliothèques** : Pandas, NumPy, Scikit-learn, TensorFlow, ggplot2, Matplotlib
-- **Outils** : Jupyter Notebook, RStudio, Git, Tableau, Power BI, Google Analytics, Azure, MATLAB, Rmarkdown
-- **Méthodologies** : Analyse de données, Modélisation prédictive, Apprentissage automatique, Data Visualization
+- Programming Languages : Python, R, SQL, VBA, HTML, CSS
+- Data Science : Python, Excel, MySQL, RStudio, PowerBI, Tableau, Google Analytics, Azure,
+- Libraries : Python (Pandas, NumPy, Scikit-learn, TensorFlow, ggplot2, Matplotlib, Seaborn)
+- Machine Learning : NLP
+- Tools : Jupyter Notebook, Rmarkdown, Git
+
 
