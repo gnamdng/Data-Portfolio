@@ -1,7 +1,8 @@
 Project 3 is the continuation of Project 2. 
 After successfully creating the cash register using VBA, the collected data was then used to create the restaurant dashboard.
 
-Prior to creating the dashboard, i completed some steps to use the data: collecting the data,
-cleaning the data (headers changing, column/rows deleting) and running some tests for pivot tables.
+Before creating the dashboard, i completed several steps to prepare the data: collecting, cleaning (changing headers, 
+deleting column/rows) and running some tests for pivot tables.
 
-The result is an interactive dashboard for the restaurant with the needed informations, this first visualization is quite basic.
+The result is an interactive dashboard for the restaurant with the necessary informations required, 
+this is my first data visualization so it looks pretty basic.
