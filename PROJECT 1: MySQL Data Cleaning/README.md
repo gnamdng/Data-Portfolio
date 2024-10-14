@@ -1,5 +1,4 @@
-Le premier projet de mon dataportfolio.
+My first Dataportfolio Project!
 
-Pour ce projet, je présente comment réaliser le nettoyage de données dans MySQL.
-Le fichier traite des licenciements réalisés depuis la période COVID19 sur les entreprises de
-l'industrie de la technologie.
+For this project, i will show how i usually clean data in MySQL.
+The file is about layoffs that happened during COVID-19 on tech companies.
