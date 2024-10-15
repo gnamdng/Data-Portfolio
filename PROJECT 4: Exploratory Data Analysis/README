@@ -1,4 +1,3 @@
-Pour ce 4ème projet, je vais réaliser l'analyse des données d'un dataset de ventes de pizzas.
-Le 4ème et 5ème projet utiliseront le même dataset mais l'analyse se fera avec des outils différents.
-Pour cette analyse, ce sera avec les librairies Python (Pandas, Numpy, Matplotlib, Seaborn) d'analyse de données 
-et pour le 5ème projet, ce sera fait directement sur PowerBI, en transformant les données directement à l'aide de Power Query.
+4th project focuses on EDA of pizza sales dataset.
+5th project will be using the same dataset but the analysis will be made with PowerBI for data visualization.
+As for this one, i will be using Python libraries in Jupyter Notebook (Pandas, Numpy, Matplotlib, Seaborn).
