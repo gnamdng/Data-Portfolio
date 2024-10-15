@@ -1,4 +1,4 @@
-Ce projet porte sur la réalisation d'une caisse enregistreuse sous VBA.
-Pour ce faire, j'ai réalisé plusieurs interfaces reliées entre elles à l'aide de boutons et de macros.
-l'interface est intéractive comme une vraie caisse enregistreuse et ajoute en
-temps réel les données d'une commande créée à l'intérieur de la caisse directement dans la base de données Excel.
+For this project, i created a cash register in VBA.
+I created multiple interfaces connected to each others with buttons and macros.
+The cash register is an interactive and dynamic application, just like a real one! And each time an order is created through
+the cash register, data is transferred in real time to Excel Sheets.
