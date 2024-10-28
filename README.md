@@ -7,7 +7,7 @@ All documents on my github are in french and sometimes in english but i plan on 
 ## SKILLS
 - Programming Languages : Python, R, SQL, VBA, HTML, CSS
 - Data Science : Python, Excel, MySQL, RStudio, PowerBI, Tableau, Google Analytics, Azure, Git, Jupyter, 
-- Libraries : Python (Pandas, NumPy, Scikit-learn, TensorFlow, ggplot2, Matplotlib, Seaborn)
+- Libraries : Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, ggplot2)
 - Machine Learning : NLP, Python (scikit-learn, Keras, Tensorflow), Decision Trees, Neural Networks, Linear Regression
 - Tools : Jupyter Notebook, Rmarkdown, Git
 
