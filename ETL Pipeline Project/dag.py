@@ -28,8 +28,8 @@ with dag:
 
     start_pipeline = CloudDataFusionStartPipelineOperator(
     location="us-central1",
-    pipeline_name="etl-pipeline",
-    instance_name="datafusion-dev",
+    pipeline_name="ETL-Pipeline-Project",
+    instance_name="datafusiondev",
     task_id="start_datafusion_pipeline",
     )
 
