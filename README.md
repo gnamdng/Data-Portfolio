@@ -1,7 +1,7 @@
 # Data Science Portfolio
 
 ## Introduction
-Welcome to my data portfolio ! My name is Nam DANG. I'm a data driven student specialized in data analysis and i am continuously exploring the vast world of data and machine learning.
+Welcome to my data portfolio ! My name is Nam DANG. I'm a data driven student specialized in analysis and i am continuously exploring the vast world of business, data and machine learning.
 All documents on my github are in french and sometimes in english but i plan on making this data portfolio fully english. I will publish some of my personal projects, experiments and show some of my skills in data science !
 
 ## SKILLS
