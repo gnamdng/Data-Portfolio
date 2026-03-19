@@ -7,8 +7,8 @@ I am specialized in transforming raw data into actionable business insights. My 
 
 ## SKILLS
 >**Business Analysis**: Strategic Diagnosis (SWOT, PESTEL), Market Research <br>
->**Data Analytics**: Python (Pandas, scikit-learn, NumPy),SQL (MySQL), R, Excel(VBA, TCD, PowerQuery)
->**Visualization**: PowerBI, Tableau, Google Analytics, Python(Matplotlib/Seaborn)
->**Cloud & Ops**: Azure, Git, Jupyter, ETL automation
+>**Data Analytics**: Python (Pandas, scikit-learn, NumPy),SQL (MySQL), R, Excel(VBA, TCD, PowerQuery) <br>
+>**Visualization**: PowerBI, Tableau, Google Analytics, Python(Matplotlib/Seaborn) <br>
+>**Cloud & Ops**: Azure, Git, Jupyter, ETL automation <br>
 
 
