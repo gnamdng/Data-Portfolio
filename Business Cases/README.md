@@ -5,8 +5,8 @@ Ce dossier regroupe des travaux d'analyse approfondis réalisés sur des problé
 Fichier : 
 Problématique
 Analyse du risque de confusion et de la protection de la propriété intellectuelle entre la gamme K Water (L'Oréal) et la marque K (Arne Patrik Heinze).
-<br><br>
-## **Cas 2 : Diagnostic Stratégique - Paradoxes de Ferrero
+
+## **Cas 2 : Diagnostic Stratégique - Paradoxes de Ferrero**
 Fichier : 
 Problématique
 Comment le groupe Ferrero gère-t-il les tensions entre son modèle de croissance industrielle massive et ses engagements de durabilité (huile de palme, image familiale, nutrition) ?
