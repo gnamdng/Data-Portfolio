@@ -6,10 +6,10 @@ Welcome to my data portfolio ! My name is Nam DANG. I'm a data driven student sp
 I am specialized in transforming raw data into actionable business insights. My approach combines technical mastery (Python, SQL, ML) with strategic analysis (Market law, Corporate strategy, ROI).
 
 ## SKILLS
->**Business Analysis**: Strategic Diagnosis (SWOT, PESTEL), Market Research <br>
->**Data Analytics**: Python (Pandas, scikit-learn, NumPy),SQL (MySQL), R, Excel(VBA, TCD, PowerQuery) <br>
->**Visualization**: PowerBI, Tableau, Google Analytics, Python(Matplotlib/Seaborn) <br>
->**Cloud & Ops**: Azure, Git, Jupyter, ETL automation <br>
+**Business Analysis**: Strategic Diagnosis (SWOT, PESTEL), Market Research <br>
+**Data Analytics**: Python (Pandas, scikit-learn, NumPy),SQL (MySQL), R, Excel(VBA, TCD, PowerQuery) <br>
+**Visualization**: PowerBI, Tableau, Google Analytics, Python(Matplotlib/Seaborn) <br>
+**Cloud & Ops**: Azure, Git, Jupyter, ETL automation <br>
 
 
 
