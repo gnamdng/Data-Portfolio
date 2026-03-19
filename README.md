@@ -12,3 +12,4 @@ I am specialized in transforming raw data into actionable business insights. My 
 >**Cloud & Ops**: Azure, Git, Jupyter, ETL automation <br>
 
 
+
