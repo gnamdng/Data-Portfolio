@@ -1,4 +1,4 @@
-### **Business Cases : Analyses Stratégiques, Juridiques et autres**
+# **Business Cases : Analyses Stratégiques, Juridiques et autres**
 Ce dossier regroupe des travaux d'analyse approfondis réalisés sur des problématiques réelles d'entreprises leaders dans leur secteur.
 
 ## **Cas 1 : Droit des marques - Conflit l'Oréal vs Arne Patrik Heinze**
