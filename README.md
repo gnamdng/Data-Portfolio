@@ -2,7 +2,7 @@
 > **Bridging the gap between complex data and strategic business decisions.**
 
 ## Introduction
-Welcome to my data portfolio ! My name is Nam DANG. I'm a data driven student specialized in analysis and i am continuously exploring the vast world of business, data and machine learning.
+Welcome to my business and data portfolio ! My name is Nam DANG. I'm a data driven student specialized in analysis and i am continuously exploring the vast world of business, data and machine learning.
 I am specialized in transforming raw data into actionable business insights. My approach combines technical mastery (Python, SQL, ML) with strategic analysis (Market law, Corporate strategy, ROI).
 
 ## SKILLS
